@@ -2,9 +2,10 @@ package main
 
 import (
 	"fmt"
+	"os"
+	
 	"goVM/image"
 	"goVM/vm"
-	"os"
 )
 
 // LC-3 Architecture
